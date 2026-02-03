@@ -72,7 +72,7 @@ Relasi antar tabel dibuat menggunakan Foreign Key untuk menjaga normalisasi data
 
 ## Cara Menjalankan Aplikasi
 1. Clone repository
-   git clone https://github.com/username/tes-junior-programmer-fastprint.git
+   git clone https://github.com/brilianputra09/tes-junior-programmer-fastprint.git
 
 2. Masuk ke folder project
    cd tes-junior-programmer-fastprint
